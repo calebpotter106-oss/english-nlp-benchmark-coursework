@@ -1,0 +1,14 @@
+Synthetic unit tests; NOT model performance.
+test_denominator (__main__.Tests.test_denominator) ... ok
+test_duplicate (__main__.Tests.test_duplicate) ... ok
+test_explicit (__main__.Tests.test_explicit) ... ok
+test_invalid (__main__.Tests.test_invalid) ... ok
+test_last (__main__.Tests.test_last) ... ok
+test_letter (__main__.Tests.test_letter) ... ok
+test_range (__main__.Tests.test_range) ... ok
+test_unknown (__main__.Tests.test_unknown) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK

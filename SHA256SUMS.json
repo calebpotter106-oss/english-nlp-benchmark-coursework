@@ -1,0 +1,15 @@
+{
+  ".gitignore": "7028289b4fa26e035989f2e9caf120f8d39570d5478c6f825ef6f139d94398a2",
+  "docs/reproduction.md": "4d9d1acc4bcd83865b56fa9039e1d9b267b5765b391672fd9639ef33f8734259",
+  "docs/sources.md": "ec06c332768368ff4c95d79c5998dede82b1697ca39c7f276c3292389c90718b",
+  "docs/status.md": "b00f8b0db0e65c105255141ececc0b0bf091f6911df91068367d4cddb6427f84",
+  "README.md": "32023f74da8ff8566cfbf48ebc605cb489e66331f78fc5fa08f77c97c764a8f8",
+  "requirements.txt": "a7c7ea7ea0d67731b38611803dde9b02bbd9a5c8d222d21b4642134a536f9b12",
+  "results/audit.json": "778390bf9ab3338af7cd5319981e3b5d272111f28116d6a11d296e49c82b44f4",
+  "results/official_sources.json": "aab17181bdd4b76fc1ccdb4fa73f5b870c60268147fe51a902d74d656fd0cd5f",
+  "results/score_tests.txt": "d62f06fc9865a25877d7da1fcb5be78eecc558fa27bcaf271788cb672816b5fb",
+  "src/coursework_audit.py": "c0fc35b023387489f10a5de7080bc23085ac345b7324cc89e285159fc8191d75",
+  "src/coursework_score.py": "81e3a1062ecd0fd09010467af3b0e8dc24ef3d1904462063d60b5e9e3b29e7e0",
+  "src/run_coursework_scoring.py": "fbce877f58a57558347f7c97237dfc488ac864b6036270a464cecb8bbcf85b6b",
+  "src/test_coursework_score.py": "ed6556b1301ef779715189bef6307c9c6aae1e2640656c941943fd7ea72eed9d"
+}

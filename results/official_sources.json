@@ -1,0 +1,65 @@
+{
+  "mmlu": {
+    "repository": "TIGER-AI-Lab/MMLU-Pro",
+    "commit": "f418b116db00b065c2aea046518d8fcf74d39872",
+    "checked_date": "2026-10-10",
+    "files": [
+      {
+        "path": "README.md",
+        "status": 200,
+        "url": "https://github.com/TIGER-AI-Lab/MMLU-Pro/blob/f418b116db00b065c2aea046518d8fcf74d39872/README.md",
+        "sha256": "dfbab62320e644f3682d4697e206160bbb59baafa324c59a17e4424328e3e5a5"
+      },
+      {
+        "path": "compute_accuracy.py",
+        "status": 200,
+        "url": "https://github.com/TIGER-AI-Lab/MMLU-Pro/blob/f418b116db00b065c2aea046518d8fcf74d39872/compute_accuracy.py",
+        "sha256": "c0052d10d0d8ada49f796a4a73fcf36c3a9348a0017f8fe46f41cede5457a599"
+      }
+    ]
+  },
+  "ifeval": {
+    "repository": "google-research/google-research",
+    "commit": "6e6b1ff7471be7ed884ff7ce0821c889a3a1b0c9",
+    "checked_date": "2026-10-10",
+    "files": [
+      {
+        "path": "instruction_following_eval/README.md",
+        "status": 200,
+        "url": "https://github.com/google-research/google-research/blob/6e6b1ff7471be7ed884ff7ce0821c889a3a1b0c9/instruction_following_eval/README.md",
+        "sha256": "fef3c44408e4b39837af345095ccce7da798853fd60ea94a1de63afa9d3d67b3"
+      },
+      {
+        "path": "instruction_following_eval/evaluation_lib.py",
+        "status": 200,
+        "url": "https://github.com/google-research/google-research/blob/6e6b1ff7471be7ed884ff7ce0821c889a3a1b0c9/instruction_following_eval/evaluation_lib.py",
+        "sha256": "35decc06000718487f44d7deafa6d3f48a8ec0886281edf40162c0265b7d248c"
+      },
+      {
+        "path": "instruction_following_eval/data/input_data.jsonl",
+        "status": 200,
+        "url": "https://github.com/google-research/google-research/blob/6e6b1ff7471be7ed884ff7ce0821c889a3a1b0c9/instruction_following_eval/data/input_data.jsonl",
+        "sha256": "67ffeee0fcb87c317c5b08a2de85557b4a7e96ada6178aa645b4954fe4b53d49"
+      }
+    ]
+  },
+  "livebench": {
+    "repository": "LiveBench/LiveBench",
+    "commit": "24364d65076429adfcba7be18af4d44fddc43dce",
+    "checked_date": "2026-10-10",
+    "files": [
+      {
+        "path": "README.md",
+        "status": 200,
+        "url": "https://github.com/LiveBench/LiveBench/blob/24364d65076429adfcba7be18af4d44fddc43dce/README.md",
+        "sha256": "daedd942e98b2d4cc7f83e574368ba99823f4e9df9edf73619c3099a939e9944"
+      },
+      {
+        "path": "livebench/gen_ground_truth_judgment.py",
+        "status": 200,
+        "url": "https://github.com/LiveBench/LiveBench/blob/24364d65076429adfcba7be18af4d44fddc43dce/livebench/gen_ground_truth_judgment.py",
+        "sha256": "dd6bdce67dafd270030980fc864a37940f09a8aa83ce6f94d8657052afbdbd37"
+      }
+    ]
+  }
+}
